@@ -8,5 +8,6 @@ public class Myclass {
     int comm=3;
     int comm1=3;
 int ali=34;
+    int bot=76;
 }
 
