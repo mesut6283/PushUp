@@ -10,5 +10,6 @@ public class Myclass {
 int ali=34;
     int bot=76;
     int branchpush=56;
+    int bbb=78;
 }
 
