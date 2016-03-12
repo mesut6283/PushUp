@@ -12,5 +12,6 @@ int ali=34;
     int branchpush=56;
     int bbb=78;
     int ccc=78;
+    int ddd=78;
 }
 
