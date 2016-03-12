@@ -6,5 +6,6 @@ package com.masoud.example.pushup;
 public class Myclass {
     int branch2=2;
     int comm=3;
+    int comm1=3;
 }
 
